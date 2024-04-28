@@ -1,0 +1,4 @@
+{
+    "window.title": "${dirty} (${activeFolderShort}) ${activeEditorShort}",
+
+}
